@@ -1,0 +1,2 @@
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs

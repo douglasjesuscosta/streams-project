@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Persistence\Persistence.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Streammers\" />
+    <Folder Include="Countries\" />
+    <Folder Include="Shared\" />
+    <Folder Include="Shared\Exceptions\" />
+    <Folder Include="Contries\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

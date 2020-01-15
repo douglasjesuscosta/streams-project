@@ -1,0 +1,8 @@
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/bin/Debug/netstandard2.0/Entities.deps.json
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/bin/Debug/netstandard2.0/Entities.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/bin/Debug/netstandard2.0/Entities.pdb
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/obj/Debug/netstandard2.0/Entities.csprojAssemblyReference.cache
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfoInputs.cache
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/obj/Debug/netstandard2.0/Entities.AssemblyInfo.cs
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/obj/Debug/netstandard2.0/Entities.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Entities/obj/Debug/netstandard2.0/Entities.pdb

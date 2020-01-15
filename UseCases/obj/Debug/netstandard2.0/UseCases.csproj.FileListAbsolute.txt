@@ -1,0 +1,13 @@
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/bin/Debug/netstandard2.0/UseCases.deps.json
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/bin/Debug/netstandard2.0/UseCases.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/bin/Debug/netstandard2.0/UseCases.pdb
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/bin/Debug/netstandard2.0/Entities.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/bin/Debug/netstandard2.0/Persistence.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/bin/Debug/netstandard2.0/Entities.pdb
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/obj/Debug/netstandard2.0/UseCases.csprojAssemblyReference.cache
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/obj/Debug/netstandard2.0/UseCases.AssemblyInfoInputs.cache
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/obj/Debug/netstandard2.0/UseCases.AssemblyInfo.cs
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/obj/Debug/netstandard2.0/UseCases.csproj.CopyComplete
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/obj/Debug/netstandard2.0/UseCases.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/UseCases/obj/Debug/netstandard2.0/UseCases.pdb

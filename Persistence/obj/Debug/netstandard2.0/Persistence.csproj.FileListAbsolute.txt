@@ -1,0 +1,11 @@
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/bin/Debug/netstandard2.0/Entities.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/bin/Debug/netstandard2.0/Entities.pdb
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/douglasdejesuscosta/react-udemy-course/streams-project/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
